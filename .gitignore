@@ -1,9 +1,11 @@
 .gradle
 .gradle/**
 .gradle/**/*
-.DS_Store
+.gradle/**/**/*
+.DS_Store/**/*
 .vscode/**
 .settings/**
 bin/**
 build/**
 .classpath
+.idea/**/*
